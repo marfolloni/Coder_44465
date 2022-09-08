@@ -14,7 +14,8 @@ console.log(edad);
         alert(salida);
         console.log(); */
 
-let nombre = prompt("Ingresa tu nombre");
+/* let nombre = prompt("Ingresa tu nombre");
 let edad = parseInt(prompt("Ingresa su edad"));
 let saludo = `Hola ${nombre}, tienes ${edad} años`;
-alert(saludo);
+alert(saludo); */
+
